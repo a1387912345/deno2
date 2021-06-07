@@ -1,0 +1,6 @@
+{
+  "denoDir": "[WILDCARD]",
+  "modulesCache": "[WILDCARD]deps",
+  "typescriptCache": "[WILDCARD]gen",
+  "registryCache": "[WILDCARD]registries"
+}
