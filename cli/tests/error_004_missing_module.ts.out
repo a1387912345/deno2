@@ -1,0 +1,1 @@
+[WILDCARD]error: Cannot resolve module "[WILDCARD]/bad-module.ts" from "[WILDCARD]/error_004_missing_module.ts"
